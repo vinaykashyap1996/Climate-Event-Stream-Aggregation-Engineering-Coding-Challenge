@@ -58,7 +58,7 @@ yarn build
 At minimum, set your GraphQL backend endpoint:
 
 ```
-REACT_APP_GRAPHQL_ENDPOINT=http://localhost:4000/graphql
+CLIMATE_AGGREGATION_LOCALDEV_BACKEND_URL=http://localhost:4000/graphql
 ```
 
 ## Scripts
